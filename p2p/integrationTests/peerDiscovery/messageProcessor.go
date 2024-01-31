@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 )
 
 // MessageProcesssor -

@@ -3,9 +3,9 @@ package crypto
 import (
 	"crypto/sha256"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	crypto "github.com/bhagyaraj1208117/andes-crypto-go"
 )
 

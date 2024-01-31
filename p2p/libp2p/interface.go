@@ -3,8 +3,8 @@ package libp2p
 import (
 	"context"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 	pubsub "github.com/libp2p/go-libp2p-pubsub"
 	"github.com/libp2p/go-libp2p/core/crypto"
 	"github.com/libp2p/go-libp2p/core/network"

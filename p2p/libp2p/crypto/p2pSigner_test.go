@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
 	p2pCrypto "github.com/bhagyaraj1208117/andes-communication-go/p2p/libp2p/crypto"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/mock"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 	crypto "github.com/bhagyaraj1208117/andes-crypto-go"
 	"github.com/bhagyaraj1208117/andes-crypto-go/signing"
 	"github.com/bhagyaraj1208117/andes-crypto-go/signing/secp256k1"

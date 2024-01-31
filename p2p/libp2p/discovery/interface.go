@@ -3,7 +3,7 @@ package discovery
 import (
 	"context"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 	"github.com/libp2p/go-libp2p/core/host"
 	"github.com/libp2p/go-libp2p/core/peer"
 )

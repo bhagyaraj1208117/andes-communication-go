@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/data/outport"
 	"github.com/bhagyaraj1208117/andes-communication-go/testscommon"
 	webSocket "github.com/bhagyaraj1208117/andes-communication-go/websocket"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/data"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/data/outport"
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/require"
 )

@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/random"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
+	"github.com/bhagyaraj1208117/andes-core-go/core/random"
 )
 
 func getPort(port string, handler func(int) error, log p2p.Logger) (int, error) {

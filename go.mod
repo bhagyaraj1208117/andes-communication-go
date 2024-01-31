@@ -3,10 +3,10 @@ module github.com/bhagyaraj1208117/andes-communication-go
 go 1.20
 
 require (
-	github.com/bhagyaraj1208117/andes-abc-1 v0.0.0-20240116110639-33aa4ec09eec
-	github.com/bhagyaraj1208117/andes-crypto-go v0.0.0-20240117111159-2ca861c5e47a
-	github.com/bhagyaraj1208117/andes-logger-xyz v0.0.0-20240117091325-c86a73c1050e
-	github.com/bhagyaraj1208117/andes-storage-go v0.0.0-20240118085423-bec968045e3a
+	github.com/bhagyaraj1208117/andes-core-go v1.2.13
+	github.com/bhagyaraj1208117/andes-crypto-go v1.2.8
+	github.com/bhagyaraj1208117/andes-logger-go v1.0.13
+	github.com/bhagyaraj1208117/andes-storage-go v1.0.12
 	github.com/davecgh/go-spew v1.1.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/gorilla/mux v1.8.1
@@ -17,7 +17,7 @@ require (
 	github.com/libp2p/go-libp2p-kad-dht v0.25.2
 	github.com/libp2p/go-libp2p-kbucket v0.6.3
 	github.com/libp2p/go-libp2p-pubsub v0.10.0
-	github.com/multiformats/go-multiaddr v0.12.1
+	github.com/multiformats/go-multiaddr v0.12.2
 	github.com/stretchr/testify v1.8.4
 	github.com/whyrusleeping/timecache v0.0.0-20160911033111-cfcb2f1abfee
 )
@@ -56,7 +56,7 @@ require (
 	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
 	github.com/jbenet/go-temp-err-catcher v0.1.0 // indirect
 	github.com/klauspost/compress v1.17.2 // indirect
-	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
+	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
 	github.com/koron/go-ssdp v0.0.4 // indirect
 	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
 	github.com/libp2p/go-cidranger v1.1.0 // indirect

@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/data"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/gorilla/websocket"
 )
 

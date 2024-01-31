@@ -3,7 +3,7 @@ package testscommon
 import (
 	"fmt"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/marshal"
+	"github.com/bhagyaraj1208117/andes-core-go/marshal"
 )
 
 var _ marshal.Marshalizer = (*ProtoMarshallerMock)(nil)

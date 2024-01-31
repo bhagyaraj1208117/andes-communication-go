@@ -3,8 +3,8 @@ package crypto
 import (
 	"fmt"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	crypto "github.com/bhagyaraj1208117/andes-crypto-go"
 	libp2pCrypto "github.com/libp2p/go-libp2p/core/crypto"
 	"github.com/libp2p/go-libp2p/core/peer"

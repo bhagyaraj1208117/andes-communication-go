@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 

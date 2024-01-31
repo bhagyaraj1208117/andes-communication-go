@@ -6,11 +6,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/marshal/factory"
 	"github.com/bhagyaraj1208117/andes-communication-go/testscommon"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/data"
 	factoryHost "github.com/bhagyaraj1208117/andes-communication-go/websocket/factory"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	"github.com/bhagyaraj1208117/andes-core-go/marshal/factory"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 )
 
 var (

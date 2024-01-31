@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/bhagyaraj1208117/andes-storage-go/types"
 )
 

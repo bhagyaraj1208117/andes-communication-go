@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/data/outport"
 	"github.com/bhagyaraj1208117/andes-communication-go/testscommon"
+	"github.com/bhagyaraj1208117/andes-core-go/data/outport"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,12 +1,12 @@
 package factory
 
 import (
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/marshal"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/client"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/data"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/server"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/marshal"
 )
 
 // ArgsWebSocketHost holds all the arguments needed in order to create a FullDuplexHost

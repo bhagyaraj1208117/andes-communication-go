@@ -3,7 +3,7 @@ package mock
 import (
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 )
 
 // PeerDenialEvaluatorStub -

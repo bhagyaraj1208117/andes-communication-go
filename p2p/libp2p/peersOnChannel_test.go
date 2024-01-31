@@ -5,11 +5,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	coreAtomic "github.com/bhagyaraj1208117/andes-abc-1/core/atomic"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/libp2p"
 	"github.com/bhagyaraj1208117/andes-communication-go/testscommon"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	coreAtomic "github.com/bhagyaraj1208117/andes-core-go/core/atomic"
 	"github.com/libp2p/go-libp2p/core/peer"
 	"github.com/stretchr/testify/assert"
 )

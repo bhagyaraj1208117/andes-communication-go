@@ -3,7 +3,7 @@ package disabled
 import (
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 )
 
 // PeerDenialEvaluator is a disabled implementation of PeerDenialEvaluator that does not manage black listed keys

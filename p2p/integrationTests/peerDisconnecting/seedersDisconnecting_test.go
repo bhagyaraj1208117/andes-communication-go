@@ -9,7 +9,7 @@ import (
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/libp2p"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/mock"
 	"github.com/bhagyaraj1208117/andes-communication-go/testscommon"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	mocknet "github.com/libp2p/go-libp2p/p2p/net/mock"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

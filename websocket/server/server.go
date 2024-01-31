@@ -6,12 +6,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
 	webSocket "github.com/bhagyaraj1208117/andes-communication-go/websocket"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/connection"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/data"
 	"github.com/bhagyaraj1208117/andes-communication-go/websocket/transceiver"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
 )

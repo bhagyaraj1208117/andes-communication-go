@@ -1,6 +1,6 @@
 package testscommon
 
-import logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+import logger "github.com/bhagyaraj1208117/andes-logger-go"
 
 // LoggerStub -
 type LoggerStub struct {

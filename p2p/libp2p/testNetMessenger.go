@@ -1,7 +1,7 @@
 package libp2p
 
 import (
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 

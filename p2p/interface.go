@@ -6,9 +6,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
 	crypto "github.com/bhagyaraj1208117/andes-crypto-go"
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 )
 
 // MessageProcessor is the interface used to describe what a receive message processor should do

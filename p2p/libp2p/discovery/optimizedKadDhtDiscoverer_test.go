@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/libp2p/discovery"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/mock"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	"github.com/libp2p/go-libp2p/core/peer"
 	"github.com/stretchr/testify/assert"
 )

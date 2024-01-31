@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/bhagyaraj1208117/andes-abc-1/core"
+import "github.com/bhagyaraj1208117/andes-core-go/core"
 
 // ConnectionsWatcherStub -
 type ConnectionsWatcherStub struct {

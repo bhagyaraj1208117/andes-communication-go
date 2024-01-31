@@ -1,11 +1,11 @@
 package messagecheck
 
 import (
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
-	"github.com/bhagyaraj1208117/andes-abc-1/data/batch"
-	"github.com/bhagyaraj1208117/andes-abc-1/marshal"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/libp2p"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
+	"github.com/bhagyaraj1208117/andes-core-go/data/batch"
+	"github.com/bhagyaraj1208117/andes-core-go/marshal"
 	pubsub "github.com/libp2p/go-libp2p-pubsub"
 	pubsubPb "github.com/libp2p/go-libp2p-pubsub/pb"
 )

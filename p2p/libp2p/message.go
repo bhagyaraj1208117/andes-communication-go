@@ -3,11 +3,11 @@ package libp2p
 import (
 	"fmt"
 
-	"github.com/bhagyaraj1208117/andes-abc-1/core"
-	"github.com/bhagyaraj1208117/andes-abc-1/core/check"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/data"
 	"github.com/bhagyaraj1208117/andes-communication-go/p2p/message"
+	"github.com/bhagyaraj1208117/andes-core-go/core"
+	"github.com/bhagyaraj1208117/andes-core-go/core/check"
 	pubsub "github.com/libp2p/go-libp2p-pubsub"
 	"github.com/libp2p/go-libp2p/core/peer"
 )

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	logger "github.com/bhagyaraj1208117/andes-logger-xyz"
+	logger "github.com/bhagyaraj1208117/andes-logger-go"
 	"github.com/gorilla/websocket"
 )
 
